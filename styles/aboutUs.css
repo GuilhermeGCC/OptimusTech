@@ -1,0 +1,25 @@
+.aboutUs {
+    text-align: center;
+    padding: 6em;
+}
+
+
+
+.aboutUs__span {
+    font-weight: 600;
+    color: var(--dark-red);
+}
+
+.aboutUs__title {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--black);
+    margin: 0.6em;
+}
+
+.aboutUs__text {
+    font-size: 20px; 
+    max-width: 800px; 
+    margin-right: auto;
+    margin-left: auto ;
+}
