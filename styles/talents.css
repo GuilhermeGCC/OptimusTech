@@ -1,0 +1,27 @@
+.talents {
+    text-align: center;
+    padding-top: 6em;
+}
+
+.talents__badge {
+    color: var(--dark-red);
+    font-size: 14px;
+    border-radius: 16px;
+    background-color: rgba(142, 36, 36, 0.05);
+    padding: 0.25em 0.75em;
+    max-width: 125px;
+    margin: auto;
+    
+}
+
+.talents__title {
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--black);
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
+
+.talents__text {
+    margin-bottom: 4em;
+}

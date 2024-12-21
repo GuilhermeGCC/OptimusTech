@@ -1,6 +1,7 @@
 @import url(styles/header.css);
 @import url(styles/aboutUs.css);
 @import url(styles/metrics.css);
+@import url(styles/talents.css);
 
 * {
     box-sizing: border-box;
@@ -19,7 +20,7 @@
     --dark-red:#8E2424;
     --gray: #667085;
     --white: #FFFFFF;
-    --black: #000000;
+    --black: #101828;
 
 
     /* FONTS */
