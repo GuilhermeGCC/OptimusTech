@@ -1,5 +1,6 @@
 @import url(styles/header.css);
 @import url(styles/aboutUs.css);
+@import url(styles/metrics.css);
 
 * {
     box-sizing: border-box;
@@ -8,7 +9,7 @@
     font-family: var(--inter);
     color: var(--gray);
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 400;
     text-decoration: none;
 }
 

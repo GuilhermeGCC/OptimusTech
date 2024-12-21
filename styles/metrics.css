@@ -1,0 +1,23 @@
+.metrics {
+    display: flex;
+    justify-content: space-around;
+}
+
+.metrics__number {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--dark-red);
+}
+
+.metrics__title {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(black);
+    margin-top: 0.75em ;
+    margin-bottom: 0.5em;
+    
+}
+
+.metrics__text {
+    max-width: 350px;
+}
