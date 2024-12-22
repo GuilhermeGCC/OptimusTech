@@ -1,0 +1,34 @@
+.jobs {
+    margin: 0 auto;
+    padding-bottom: 6em;
+    max-width: 768px;
+    
+}
+
+
+.jobs__title {
+    font-weight: 500;
+    font-size: 20px;
+    color: var(--black);
+    margin-top: 4em;
+}
+
+
+.jobs__job {
+    border: 1px solid var(--gray);
+    border-radius: 16px;
+    margin: 1.5em 0;
+    padding: 1.5em 1.5em 1.75em 1.5em;
+}
+
+.job__name {
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--black);
+}
+
+.job__details {
+    display: flex;
+    gap: 1.5em;
+    margin-top: 2em;
+}
