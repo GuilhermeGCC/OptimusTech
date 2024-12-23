@@ -7,7 +7,7 @@
     color: var(--dark-red);
     font-size: 14px;
     border-radius: 16px;
-    background-color: rgba(142, 36, 36, 0.05);
+    background-color: var(--background-red);
     padding: 0.25em 0.75em;
     max-width: 125px;
     margin: auto;
