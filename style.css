@@ -4,6 +4,7 @@
 @import url(styles/talents.css);
 @import url(styles/jobs.css);
 @import url(styles/testimonials.css);
+@import url(styles/footer.css);
 
 * {
     box-sizing: border-box;
@@ -24,6 +25,7 @@
     --white: #FFFFFF;
     --black: #101828;
     --background-red: rgba(142, 36, 36, 0.05);
+    --footer-background: #F9FAFB;
 
     /* FONTS */
     --inter: "Inter", "Serif";

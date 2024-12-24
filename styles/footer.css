@@ -1,0 +1,33 @@
+.footer {
+    background-color: var(--footer-background);
+    text-align: center;
+    padding: 6em 0;
+}
+
+.footer__title {
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--black);
+}
+
+.footer__text {
+    font-size: 20px;
+    margin-top: 1.25em;
+    margin-bottom: 2.5em;
+}
+
+.footer__form {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    align-items: center;
+    margin-bottom: 2.5em;
+}
+
+.footer__input {
+    padding: 0.75em 1em;
+    border: 1px solid var(--gray);
+    border-radius: 8px;
+    width: 360px;
+}
+
